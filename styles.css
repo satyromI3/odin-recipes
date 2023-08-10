@@ -1,7 +1,23 @@
 div{
-    background-color: red;
+    background-color: orange;
     color: white;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+}
+
+body{
+    background-color: brown;
+    color:bisque;
+}
+
+button{
+    background-color: orange;
+    color: black;
+    font-size: 18px;
+}
+
+a{
+    color: bisque;
+    font-style: italic;
 }
